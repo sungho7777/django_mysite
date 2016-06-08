@@ -1,0 +1,6 @@
+python start
+pip
+pip install django
+cd C:\dJango\mysite
+python manage.py runserver
+CTLR+C
